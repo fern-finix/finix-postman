@@ -202,7 +202,7 @@
                         "method": "PUT",
                         "body": {
                             "mode": "raw",
-                            "raw": "{\n    \"type\": \"merchant\",\n    \"id\": \"example\",\n    \"created_at\": \"2022-11-10T02:31:21.475Z\",\n    \"application\": \"example\"\n}",
+                            "raw": "{\n    \"type\": \"merchant\",\n    \"id\": \"example\",\n    \"created_at\": \"2022-11-10T02:41:00.758Z\",\n    \"application\": \"example\"\n}",
                             "options": {
                                 "raw": {
                                     "language": "json"
@@ -232,7 +232,7 @@
                                 "method": "PUT",
                                 "body": {
                                     "mode": "raw",
-                                    "raw": "{\n    \"type\": \"merchant\",\n    \"id\": \"example\",\n    \"created_at\": \"2022-11-10T02:31:21.475Z\",\n    \"application\": \"example\"\n}",
+                                    "raw": "{\n    \"type\": \"merchant\",\n    \"id\": \"example\",\n    \"created_at\": \"2022-11-10T02:41:00.758Z\",\n    \"application\": \"example\"\n}",
                                     "options": {
                                         "raw": {
                                             "language": "json"
